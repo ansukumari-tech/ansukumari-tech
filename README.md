@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👩‍💻 About Me:
+# Hi👋, I'm Ansu Kumari — a Computer Science student with deep interest in data science and machine learning. Exploring Data Science and Machine Learning as core areas in my journey toward becoming a data-driven problem solver.By working with real-world datasets, building predictive models, and continuously upskilling, I’m strengthening my skills beyond academic learning. Discover my ongoing work on GitHub.
 
-<!--
-**ansukumari-tech/ansukumari-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+- 📧 Email: ansuvermakri37@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ansu-kumari/
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack:
+### Programming & Data
+- Python
+- SQL
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Machine Learning & Analytics
+- Supervised Learning
+- Data Preprocessing
+- Feature Engineering
+- Model Training & Evaluation
+- Exploratory Data Analysis (EDA)
+
+### Tools & Frameworks
+- Git, GitHub
+- Jupyter Notebook
+- REST APIs
+- AWS (Basics)
+
+### Web & APIs
+- HTML, CSS, JavaScript
+- React.js
+- Gemini API
+
+
