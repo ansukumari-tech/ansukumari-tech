@@ -14,9 +14,7 @@
 ### Machine Learning & Analytics
 - Supervised Learning
 - Data Preprocessing
-- Feature Engineering
 - Model Training & Evaluation
-- Exploratory Data Analysis (EDA)
 
 ### Tools & Frameworks
 - Git, GitHub
