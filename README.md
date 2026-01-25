@@ -1,5 +1,5 @@
 ## About Me:
-# Hi👋,I'm Ansu Kumari — a Computer Science student with deep interest in data science and machine learning. Exploring Data Science and Machine Learning as core areas in my journey toward becoming a data-driven problem solver.By working with real-world datasets, building predictive models, and continuously upskilling, I’m strengthening my skills beyond academic learning. Discover my ongoing work on GitHub.
+# Hi👋, I'm Ansu kumari - a Computer Science student with deep interest in data science and machine learning. Exploring Data Science and Machine Learning as core areas in my journey toward becoming a data-driven problem solver. By working with real-world datasets, building predictive models, and continuously upskilling, I'm strengthening my skills beyond academic learning. Discover my ongoing work on GitHub.
 
 ## 🌐 Socials:
 - 📧 Email: ansuvermakri37@gmail.com  
