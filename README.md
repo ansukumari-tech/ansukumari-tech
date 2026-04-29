@@ -1,6 +1,5 @@
 # 💫 About Me:
-About Me:<br>Hi👋, I'm Ansu kumari - a CSE student with strong coding fundamentals in Object-Oriented Programming, and Data Structures & Algorithms. I enjoy building backend applications, REST APIs, and solving real-world problems through code. I have hands-on experience with tools like Git, Docker, and NoSQL databases. Currently focused on improving problem-solving skills (DSA), system design basics, and backend development to prepare for Software Engineering roles.
-
+About Me:<br>Hi👋, I'm Ansu kumari - a CSE student with strong coding fundamentals in Object-Oriented Programming, and Data Structures & Algorithms. I enjoy building backend applications, REST APIs, and solving real-world problems through code. I have hands-on experience with tools like Git, Docker, and NoSQL databases. Consistently improving problem-solving skills through DSA practice and applying them in real-world projects. Currently focused on backend development and system design to prepare for Software Engineering roles.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansu-kumari/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansuvermakri37@gmail.com) 
