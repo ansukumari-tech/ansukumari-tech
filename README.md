@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>Hi👋, I'm Ansu kumari - a CSE student with strong coding fundamentals in Java, OOP, and Data Structures. Built scalable backend systems and microservices using modern tools like Docker and Kubernetes. Experienced with Git, Linux, NoSQL, and Big Data. Passionate about solving complex problems and building scalable software solutions as a Software Engineer.
+About Me:<br>Hi👋, I'm Ansu kumari - a CSE student with strong coding fundamentals in Object-Oriented Programming, and Data Structures & Algorithms. I enjoy building backend applications, REST APIs, and solving real-world problems through code. I have hands-on experience with tools like Git, Docker, and NoSQL databases. Currently focused on improving problem-solving skills (DSA), system design basics, and backend development to prepare for Software Engineering roles.
 
 
 ## 🌐 Socials:
