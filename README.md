@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>Hi👋, I'm Ansu kumari - a CSE student with strong coding fundamentals in Java, Python, SQL, Object-Oriented Programming, and Data Structures & Algorithms. I enjoy building backend applications, REST APIs, and solving real-world problems through code. I have hands-on experience with tools like Git, Docker, and NoSQL databases. Consistently improving problem-solving skills through DSA practice and applying them in real-world projects. Currently focused on backend development and system design to prepare for Software Engineering roles.
+About Me:<br>Hi👋, I'm Ansu kumari - a B.Tech CSE (Data Science) student with expertise in Python, Java, SQL, Data Structures & Algorithms, Backend Development, and Data Analytics. Built projects in NLP, Machine Learning, Business Analytics, Cybersecurity, and Cloud-based Application Development. Skilled in Python, Pandas, SQL, Power BI, Flask, REST APIs, PostgreSQL, Docker, and Git. Actively seeking Software Engineer, Backend Developer, Data Analyst, and Data Science opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansu-kumari/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansuvermakri37@gmail.com) 
