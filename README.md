@@ -1,13 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ansu Kumari — a final-year B.Tech CSE (Data Science) student and Software Engineer | Python Developer | AI & Machine Learning enthusiast with hands-on experience building software applications, AI-powered solutions, and secure backend systems.
-
-During my Cyber Security internship at Techno Exponent, I built an automated SQL Injection scanner in Python covering 50+ endpoints — reducing manual testing effort by ~70% while achieving 95%+ detection accuracy using error-based, boolean-based, and time-based detection techniques, with multi-threaded crawling/fuzzing (cutting scan time ~40%) and CVSS-scored vulnerability reports for 3 client applications.
-
-My technical interests span Software Engineering, Backend Development, Machine Learning, NLP, and Generative AI (LangChain, RAG). Some projects I've built:
-- 🔎 **TweetLens** – NLP sentiment & emotion intelligence pipeline processing 17,000+ tweets with a hybrid VADER + TextBlob model (~80% accuracy), plus multi-label crime classification (phishing, scam, fraud across 6 categories) and an interactive Streamlit dashboard with sub-2s inference.
-- ☁️ **Cloud User Management System** – Flask-based REST API with JWT authentication, RBAC, SQLAlchemy + PostgreSQL, Dockerized and deployed via a GitHub Actions CI/CD pipeline.
-
-Currently seeking full-time Software Engineer, Python Developer, Backend Developer, AI/ML Engineer, or Data Science roles. Let's connect if you're hiring early-career software engineers or AI developers!
+About Me:<br>Hi👋, I'm Ansu Kumari - a B.Tech CSE (Data Science) student with expertise in Python, Java, C++, SQL, Data Structures & Algorithms, Backend Development, and Data Analytics. Built projects in NLP, Machine Learning, Cybersecurity, and Cloud-based Application Development, including an automated SQL Injection scanner (95%+ detection accuracy) and TweetLens, an NLP sentiment analysis platform. Skilled in Python, Flask, REST APIs, JWT, PostgreSQL, Docker, LangChain, and Git. Actively seeking Software Engineer, Backend Developer, Python Developer, and AI/ML Engineer opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansu-kumari/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansuvermakri37@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/ansu-kumari)
