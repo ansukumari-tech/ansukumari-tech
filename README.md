@@ -3,7 +3,7 @@ Hi 👋, I'm Ansu Kumari — a final-year B.Tech CSE (Data Science) student and 
 
 During my Cyber Security internship at Techno Exponent, I built an automated SQL Injection scanner in Python covering 50+ endpoints — reducing manual testing effort by ~70% while achieving 95%+ detection accuracy using error-based, boolean-based, and time-based detection techniques, with multi-threaded crawling/fuzzing (cutting scan time ~40%) and CVSS-scored vulnerability reports for 3 client applications.
 
-My technical interests span Software Engineering, Backend Development, Machine Learning, NLP, and Generative AI (LangChain, RAG, Prompt Engineering). Some projects I've built:
+My technical interests span Software Engineering, Backend Development, Machine Learning, NLP, and Generative AI (LangChain, RAG). Some projects I've built:
 - 🔎 **TweetLens** – NLP sentiment & emotion intelligence pipeline processing 17,000+ tweets with a hybrid VADER + TextBlob model (~80% accuracy), plus multi-label crime classification (phishing, scam, fraud across 6 categories) and an interactive Streamlit dashboard with sub-2s inference.
 - ☁️ **Cloud User Management System** – Flask-based REST API with JWT authentication, RBAC, SQLAlchemy + PostgreSQL, Dockerized and deployed via a GitHub Actions CI/CD pipeline.
 
